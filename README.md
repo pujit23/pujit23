@@ -2,7 +2,7 @@
 
 **Plan hard. Build harder.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&width=520&lines=Currently+building+a+vector+database+in+Java" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&width=600&lines=Currently+building+a+vector+database+in+Java" alt="typing intro" />
 
 CSE student at VIT-AP University (2024–2028), based in Bengaluru. I build backend-heavy systems and ship things end to end. Right now I'm writing a vector database from scratch in Java.
 
