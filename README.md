@@ -21,9 +21,9 @@ A from-scratch, single-node, filter-aware vector database: SIMD distance kernels
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
-| [CycHigh](https://github.com/pujit23/cychigh) | Cycling encyclopedia and community platform (deployed) | JavaScript |
-| [FindSpace](https://github.com/pujit23/Findspace) | Secure campus peer-to-peer marketplace (deployed) | JavaScript |
-| [NeedGraph](https://github.com/pujit23/needgraph_final) | AI-powered crisis prediction platform (deployed) | TypeScript |
+| [CycHigh](https://github.com/pujit23/cychigh) | Cycling encyclopedia and community platform  | JavaScript |
+| [FindSpace](https://github.com/pujit23/Findspace) | Secure campus peer-to-peer marketplace  | JavaScript |
+| [NeedGraph](https://github.com/pujit23/needgraph_final) | AI-powered crisis prediction platform  | TypeScript |
 | [Citizen Fraud Shield](https://github.com/pujit23/citizen_fraud_shield) | AI for digital public safety (ET AI Hackathon) | TypeScript |
 | [QRoute23](https://github.com/pujit23/QROUTE_QPSO_UPDATED) | Quantum-inspired (QPSO) traffic route optimization | Python |
 | [P23TRACKR](https://github.com/pujit23/P23TRACKR) | Habit and goal tracking mobile app | TypeScript |
