@@ -1,4 +1,4 @@
-# Hey, I'm Pujit Balanthiran (P23) 👋
+# Hey, I'm Pujit Balanthiran (P23) 
 
 **Plan hard. Build harder.**
 
